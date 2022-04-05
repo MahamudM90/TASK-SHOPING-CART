@@ -2,11 +2,6 @@
 
 This is a Book Shop & fully functional-Ecommerce Site 📚🛍
 
-##### HomePage
-![ScreenShot of Form](screenshorts/lol.png)
-
-##### Popular Products 
-![ScreenShot of Form](screenshorts/lala.png)
 
 ##### Footer
 ![ScreenShot of Form](screenshorts/a.png)
