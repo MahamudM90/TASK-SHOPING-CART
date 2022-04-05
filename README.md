@@ -2,6 +2,7 @@
 
 Functional Cart Using JavaScript(es5) 📚🛍
 
+👉 [Click Here for LIVE Preview](https://mahamudm90.github.io/TASK-SHOPING-CART/)
 
 ##### NavBar
 ![ScreenShot of Form](screenshots/a.png)
