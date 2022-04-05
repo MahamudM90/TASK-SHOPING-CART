@@ -1,6 +1,6 @@
-## BOI-GHAR 📚
+## Cart Functionalitites 📚
 
-This is a Book Shop & fully functional-Ecommerce Site 📚🛍
+Functional Cart Using JavaScript(es5) 📚🛍
 
 
 ##### NavBar
